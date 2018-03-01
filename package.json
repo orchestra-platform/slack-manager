@@ -1,0 +1,22 @@
+{
+  "name": "@orchestra-platform/slack-manager",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orchestra-platform/slack-manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orchestra-platform/slack-manager/issues"
+  },
+  "homepage": "https://github.com/orchestra-platform/slack-manager#readme",
+  "dependencies": {
+    "slack-node": "^0.1.8"
+  }
+}
